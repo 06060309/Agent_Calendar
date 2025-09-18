@@ -89,7 +89,7 @@
       "name": "Enviar documento",
       "credentials": {
         "evolutionApi": {
-          "id": "HsLBhDBs4LhVc0hl",
+          "id": "",
           "name": "Evolution account"
         }
       }
@@ -104,7 +104,7 @@
         -1232,
         112
       ],
-      "id": "4685335a-a359-463b-873f-7e78de5d946c",
+      "id": "",
       "name": "Structured Output Parser"
     },
     {
@@ -134,9 +134,9 @@
         -1712,
         312
       ],
-      "id": "bd344c34-f141-48b4-a1d2-3b03375301d9",
+      "id": "",
       "name": "Webhook",
-      "webhookId": "f256f04a-1382-44eb-b8b3-64b0c51d2a48"
+      "webhookId": ""
     },
     {
       "parameters": {
@@ -217,7 +217,7 @@
                       "type": "string",
                       "operation": "equals"
                     },
-                    "id": "b8a1042f-1d61-4a34-875b-25b15993a2d9"
+                    "id": ""
                   }
                 ],
                 "combinator": "and"
